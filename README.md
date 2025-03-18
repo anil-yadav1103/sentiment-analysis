@@ -37,3 +37,10 @@ Implemented sentiment categorization based on polarity
 Visualized sentiment distribution using Matplotlib/Seaborn
 Exported results into a CSV file
 Fully developed in Google Colab for easy sharing and execution
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/05b994af-4fe7-4a0a-ac0c-0ef34eef324a)
+
+![Image](https://github.com/user-attachments/assets/415605a0-2c44-4c7b-ac5d-396fa3687589)
+
+![Image](https://github.com/user-attachments/assets/5b6b9ee4-40e6-4a80-b80e-610d8f43928a)
